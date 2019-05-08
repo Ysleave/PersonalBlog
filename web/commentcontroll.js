@@ -1,6 +1,4 @@
-var blogdb = require("../dao/blogdb");
-var tagsdb = require("../dao/Tagsdb");
-var tagblogdb = require("../dao/tagblog");
+
 var commentdb = require("../dao/commentdb");
 var timeutil = require("../util/timeutil");
 var resputil = require("../util/Resputil");
