@@ -71,5 +71,4 @@ function queryByTagCount(request, response) {
     });
 }
 path.set("/queryByTagCount", queryByTagCount);
-
 module.exports.path = path;
